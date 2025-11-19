@@ -54,7 +54,6 @@
 
 - Yu, Q., Weber, M., Deng, X. et al. (2024). **An image is worth 32 tokens for reconstruction and generation**. *Advances in Neural Information Processing Systems* **37** : 128940–128966.
 - Yan, W., Mnih, V., Faust, A. et al. (2024). **Elastictok: Adaptive tokenization for image and video**. *arXiv preprint arXiv:2410.08368*.
-- Tao, C., Zhu, X., Su, S. et al. (2024). **Learning 1D causal visual representation with de-focus attention networks**. *Advances in Neural Information Processing Systems* **37** : 25913–25937.
 - Yang, J., Li, T., Fan, L. et al. (2025). **Latent Denoising Makes Good Visual Tokenizers**. *arXiv preprint arXiv:2507.15856*.
 - Zha, K., Yu, L., Fathi, A. et al. (2025). **Language-guided image tokenization for generation**. In *Proceedings of the Computer Vision and Pattern Recognition Conference* (pp. 15713–15722).
 - Beyer, L.L., Li, T., Chen, X. et al. (2025). **Highly Compressed Tokenizer Can Generate Without Training**. *arXiv preprint arXiv:2506.08257*.
@@ -86,12 +85,55 @@
 
 ### Continuous 3D CNN Video Autoencoder
 
-
+- Brooks, T., Peebles, B., Holmes, C. et al. (2024). **Video generation models as world simulators**. **.
+- Yang, Z., Teng, J., Zheng, W. et al. (2024). **Cogvideox: Text-to-video diffusion models with an expert transformer**. *arXiv preprint arXiv:2408.06072*.
+- Lin, B., Ge, Y., Cheng, X. et al. (2024). **Open-sora plan: Open-source large video generation model**. *arXiv preprint arXiv:2412.00131*.
+- Kong, W., Tian, Q., Zhang, Z. et al. (2024). **Hunyuanvideo: A systematic framework for large video generative models**. *arXiv preprint arXiv:2412.03603*.
+- Wan, T., Wang, A., Ai, B. et al. (2025). **Wan: Open and advanced large-scale video generative models**. *arXiv preprint arXiv:2503.20314*.
+- HaCohen, Y., Chiprut, N., Brazowski, B. et al. (2024). **Ltx-video: Realtime video latent diffusion**. *arXiv preprint arXiv:2501.00103*.
+- Agarwal, N., Ali, A., Bala, M. et al. (2025). **Cosmos world foundation model platform for physical ai**. *arXiv preprint arXiv:2501.03575*.
+- Cheng, Y. & Yuan, F. (2025). **LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**. *arXiv preprint arXiv:2503.14325*.
+- Li, Z., Lin, B., Ye, Y. et al. (2025). **Wf-vae: Enhancing video vae by wavelet-driven energy flow for latent video diffusion model**. In *Proceedings of the Computer Vision and Pattern Recognition Conference* (pp. 17778–17788).
+- Ma, G., Huang, H., Yan, K. et al. (2025). **Step-video-t2v technical report: The practice, challenges, and future of video foundation model**. *arXiv preprint arXiv:2502.10248*.
+- Zhang, Y., Yang, H., Zhang, Y. et al. (2025). **Waver: Wave Your Way to Lifelike Video Generation**. *arXiv preprint arXiv:2508.15761*.
+- Wang, Y., Guo, J., Xie, X. et al. (2025). **Vidtwin: Video vae with decoupled structure and dynamics**. In *Proceedings of the Computer Vision and Pattern Recognition Conference* (pp. 22922–22932).
 
 ### Discrete 3D CNN Video Autoencoder
 
+- Yu, L., Lezama, J., Gundavarapu, N.B. et al. (2023). **Language Model Beats Diffusion--Tokenizer is Key to Visual Generation**. *arXiv preprint arXiv:2310.05737*.
+- Kondratyuk, D., Yu, L., Gu, X. et al. (2023). **Videopoet: A large language model for zero-shot video generation**. *arXiv preprint arXiv:2312.14125*.
+- Wang, Y., Xiong, T., Zhou, D. et al. (2024). **Loong: Generating minute-level long videos with autoregressive language models**. *arXiv preprint arXiv:2410.02757*.
+- Tang, A., He, T., Guo, J. et al. (2024). **Vidtok: A versatile and open-source video tokenizer**. *arXiv preprint arXiv:2412.13061*.
+- Wang, J., Jiang, Y., Yuan, Z. et al. (2024). **Omnitokenizer: A joint image-video tokenizer for visual generation**. *Advances in Neural Information Processing Systems* **37** : 28281–28295.
+- Agarwal, N., Ali, A., Bala, M. et al. (2025). **Cosmos world foundation model platform for physical ai**. *arXiv preprint arXiv:2501.03575*.
+
+
 ### 3D Transformer Video Autoencoder
+
+- Teng, H., Jia, H., Sun, L. et al. (2025). **MAGI-1: Autoregressive Video Generation at Scale**. *arXiv preprint arXiv:2505.13211*.
+- Lu, J., Song, L., Xu, M. et al. (2025). **AToken: A Unified Tokenizer for Vision**. *arXiv preprint arXiv:2509.14476*.
+- Liu, H., Sun, W., Zhang, Q. et al. (2025). **Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion**. *arXiv preprint arXiv:2506.07136*.
 
 ### 1D Video Autoencoder
 
+- Wang, H., Suri, S., Ren, Y. et al. (2024). **Larp: Tokenizing videos with a learned autoregressive generative prior**. *arXiv preprint arXiv:2410.21264*.
+- Tao, C., Zhu, X., Su, S. et al. (2024). **Learning 1D causal visual representation with de-focus attention networks**. *Advances in Neural Information Processing Systems* **37** : 25913–25937.
+
 ### Video Autoencoder with Generative Decoder
+
+- Yang, N., Li, P., Zhao, L. et al. (2025). **Rethinking video tokenization: A conditioned diffusion-based approach**. *arXiv preprint arXiv:2503.03708*.
+- Zhang, Y., Mai, L., Mahapatra, A. et al. (2025). **REGEN: Learning Compact Video Embedding with (Re-) Generative Decoder**. *arXiv preprint arXiv:2503.08665*.
+- Liu, H., Sun, W., Zhang, Q. et al. (2025). **Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion**. *arXiv preprint arXiv:2506.07136*.
+
+
+
+
+
+
+
+
+
+
+
+
+
