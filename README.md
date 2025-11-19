@@ -100,6 +100,11 @@
 
 ### 2D Transformer Image Autoencoder
 
+- **Vector-quantized Image Modeling with Improved VQGAN**
+  - Yu, J., Li, X., Koh, J. et al.
+  - [arXiv:2110.04627](https://arxiv.org/abs/2110.04627)
+  - 2022
+
 - **Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation**
   - Zheng, A., Wen, X., Zhang, X. et al. 
   - [arXiv:2507.08441](https://arxiv.org/abs/2507.08441)
