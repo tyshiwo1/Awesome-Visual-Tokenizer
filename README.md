@@ -1,5 +1,6 @@
 # Awesome-Visual-Tokenizer
 
+**Categorize by Autoencoder Architecture:**
 - [Image Autoencoders](#image-autoencoders)
   - [Continuous 2D CNN Image Autoencoder](#continuous-2d-cnn-image-autoencoder)
   - [Discrete 2D CNN Image Autoencoder](#discrete-2d-cnn-image-autoencoder)
