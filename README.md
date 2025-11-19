@@ -1,22 +1,22 @@
 # Awesome-Visual-Tokenizer
 
-**Categorize by Autoencoder Architecture:**
-- [Image Autoencoders](#image-autoencoders)
-  - [Continuous 2D CNN Image Autoencoder](#continuous-2d-cnn-image-autoencoder)
-  - [Discrete 2D CNN Image Autoencoder](#discrete-2d-cnn-image-autoencoder)
-  - [2D Transformer Image Autoencoder](#2d-transformer-image-autoencoder)
-  - [1D Image Autoencoder](#1d-image-autoencoder)
-  - [Image Autoencoder with Generative Decoder](#image-autoencoder-with-generative-decoder)
-- [Video Autoencoders](#video-autoencoders)
-  - [Continuous 3D CNN Video Autoencoder](#continuous-3d-cnn-video-autoencoder)
-  - [Discrete 3D CNN Video Autoencoder](#discrete-3d-cnn-video-autoencoder)
-  - [3D Transformer Video Autoencoder](#3d-transformer-video-autoencoder)
-  - [1D Video Autoencoder](#1d-video-autoencoder)
-  - [Video Autoencoder with Generative Decoder](#video-autoencoder-with-generative-decoder)
+**Categorize by Tokenizer Architecture:**
+- [Image Tokenizers](#image-tokenizers)
+  - [Continuous 2D CNN Image Tokenizer](#continuous-2d-cnn-image-tokenizer)
+  - [Discrete 2D CNN Image Tokenizer](#discrete-2d-cnn-image-tokenizer)
+  - [2D Transformer Image Tokenizer](#2d-transformer-image-tokenizer)
+  - [1D Image Tokenizer](#1d-image-tokenizer)
+  - [Image Tokenizer with Generative Decoder](#image-tokenizer-with-generative-decoder)
+- [Video Tokenizers](#video-tokenizers)
+  - [Continuous 3D CNN Video Tokenizer](#continuous-3d-cnn-video-tokenizer)
+  - [Discrete 3D CNN Video Tokenizer](#discrete-3d-cnn-video-tokenizer)
+  - [3D Transformer Video Tokenizer](#3d-transformer-video-tokenizer)
+  - [1D Video Tokenizer](#1d-video-tokenizer)
+  - [Video Tokenizer with Generative Decoder](#video-tokenizer-with-generative-decoder)
 
-## Image Autoencoders
+## Image Tokenizers
 
-### Continuous 2D CNN Image Autoencoder
+### Continuous 2D CNN Image Tokenizer
 - **Diagnosing and enhancing VAE models**
   - Dai, B., Wipf, D. et al.
   - [arXiv:1903.05789](https://arxiv.org/abs/1903.05789)
@@ -33,7 +33,7 @@
   - 2025
 
 
-### Discrete 2D CNN Image Autoencoder
+### Discrete 2D CNN Image Tokenizer
 
 
 - **Taming transformers for high-resolution image synthesis**
@@ -98,7 +98,7 @@
 
 
 
-### 2D Transformer Image Autoencoder
+### 2D Transformer Image Tokenizer
 
 - **Vector-quantized Image Modeling with Improved VQGAN**
   - Yu, J., Li, X., Koh, J. et al.
@@ -151,7 +151,7 @@
   - 2025
 
 
-### 1D Image Autoencoder
+### 1D Image Tokenizer
 
 - **An image is worth 32 tokens for reconstruction and generation**
   - Yu, Q., Weber, M., Deng, X. et al.
@@ -229,7 +229,7 @@
   - 2025
 
 
-### Image Autoencoder with Generative Decoder
+### Image Tokenizer with Generative Decoder
 
 - **epsilon-vae: Denoising as visual decoding**
   - Zhao, L., Woo, S., Wan, Z. et al.
@@ -268,9 +268,9 @@
 
 
 
-## Video Autoencoders
+## Video Tokenizers
 
-### Continuous 3D CNN Video Autoencoder
+### Continuous 3D CNN Video Tokenizer
 
 - **Video generation models as world simulators**
   - Brooks, T., Peebles, B., Holmes, C. et al.
@@ -332,7 +332,7 @@
   - [**CVPR 2025**](https://arxiv.org/abs/2412.17726)
   - 2025
 
-### Discrete 3D CNN Video Autoencoder
+### Discrete 3D CNN Video Tokenizer
 
 - **Language Model Beats Diffusion--Tokenizer is Key to Visual Generation**
   - Yu, L., Lezama, J., Gundavarapu, N.B. et al.
@@ -365,7 +365,7 @@
   - 2025
 
 
-### 3D Transformer Video Autoencoder
+### 3D Transformer Video Tokenizer
 
 - **MAGI-1: Autoregressive Video Generation at Scale**
   - Teng, H., Jia, H., Sun, L. et al.
@@ -382,7 +382,7 @@
   - [arXiv:2506.07136](https://arxiv.org/abs/2506.07136)
   - 2025
 
-### 1D Video Autoencoder
+### 1D Video Tokenizer
 
 - **Larp: Tokenizing videos with a learned autoregressive generative prior**
   - Wang, H., Suri, S., Ren, Y. et al.
@@ -395,7 +395,7 @@
   - 2024
 
 
-### Video Autoencoder with Generative Decoder
+### Video Tokenizer with Generative Decoder
 
 - **Rethinking video tokenization: A conditioned diffusion-based approach**
   - Yang, N., Li, P., Zhao, L. et al.
