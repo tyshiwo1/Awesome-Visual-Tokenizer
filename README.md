@@ -231,6 +231,12 @@
 
 ### Image Tokenizer with Generative Decoder
 
+- **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation**
+  - Preechakul, N., Chatthee, N., Wizadwongsa, S., Suwajanakorn, S.
+  - [**CVPR 2022**](https://arxiv.org/abs/2111.15640)
+  - 2022
+
+
 - **epsilon-vae: Denoising as visual decoding**
   - Zhao, L., Woo, S., Wan, Z. et al.
   - [arXiv:2410.04081](https://arxiv.org/abs/2410.04081)
