@@ -126,8 +126,8 @@
   - 2025
 
 - **Gigatok: Scaling visual tokenizers to 3 billion parameters for autoregressive image generation**
-  - Xiong, T., Liew, J.H., Huang, Z. et al. 
-  - [arXiv:2504.08736](https://arxiv.org/abs/2504.08736)
+  - Xiong, T., Liew, J.H., Huang, Z. et al.
+  - [**ICCV 2025**](https://arxiv.org/abs/2504.08736)
   - 2025
 
 - **Latent Diffusion Model without Variational Autoencoder**
@@ -189,37 +189,37 @@
   - 2024
 
 - **Democratizing text-to-image masked generative models with compact text-aware one-dimensional tokens**
-  - Kim, D., He, J., Yu, Q.
+  - Kim, D., He, J., Yu, Q. et al.
   - [arXiv:2501.07730](https://arxiv.org/abs/2501.07730)
   - 2025
 
 - **FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**
-  - Bachmann, R., Allardice, J., Mizrahi, D.
-  - **ICML 2025**
+  - Bachmann, R., Allardice, J., Mizrahi, D. et al.
+  - [**ICML 2025**](https://arxiv.org/abs/2502.13967)
   - 2025
 
 - **Gigatok: Scaling visual tokenizers to 3 billion parameters for autoregressive image generation**
-  - Xiong, T., Liew, J.H., Huang, Z.
-  - [arXiv:2504.08736](https://arxiv.org/abs/2504.08736)
+  - Xiong, T., Liew, J.H., Huang, Z. et al.
+  - [**ICCV 2025**](https://arxiv.org/abs/2504.08736)
   - 2025
 
 - **DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**
-  - Liu, Y., Qu, L., Zhang, H.
+  - Liu, Y., Qu, L., Zhang, H. et al.
   - [arXiv:2505.21473](https://arxiv.org/abs/2505.21473)
   - 2025
 
 - **One-d-piece: Image tokenizer meets quality-controllable compression**
-  - Miwa, K., Sasaki, K., Arai, H.
+  - Miwa, K., Sasaki, K., Arai, H. et al.
   - [arXiv:2501.10064](https://arxiv.org/abs/2501.10064)
   - 2025
 
 - **Image Tokenizer Needs Post-Training**
-  - Qiu, K., Li, X., Chen, H.
+  - Qiu, K., Li, X., Chen, H. et al.
   - [arXiv:2509.12474](https://arxiv.org/abs/2509.12474)
   - 2025
 
 - **AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**
-  - Wu, P., Zhu, K., Liu, Y.
+  - Wu, P., Zhu, K., Liu, Y. et al.
   - [arXiv:2506.05289](https://arxiv.org/abs/2506.05289)
   - 2025
 
@@ -237,8 +237,8 @@
   - 2025
 
 - **FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**
-  - Bachmann, R., Allardice, J., Mizrahi, D.
-  - **ICML 2025**
+  - Bachmann, R., Allardice, J., Mizrahi, D. et al.
+  - [**ICML 2025**](https://arxiv.org/abs/2502.13967)
   - 2025
 
 - **D-AR: Diffusion via Autoregressive Models**
@@ -248,7 +248,7 @@
 
 - **Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens**
   - Pan, K., Lin, W., Yue, Z.
-  - **CVPR 2025**
+  - [**CVPR 2025**](https://arxiv.org/abs/2504.14666)
   - 2025
 
 - **Flow to the mode: Mode-seeking diffusion autoencoders for state-of-the-art image tokenization**
@@ -269,7 +269,7 @@
 
 - **Video generation models as world simulators**
   - Brooks, T., Peebles, B., Holmes, C.
-  - Unknown Venue
+  - [**The SORA**](https://openai.com/index/video-generation-models-as-world-simulators/)
   - 2024
 
 - **Cogvideox: Text-to-video diffusion models with an expert transformer**
@@ -309,7 +309,7 @@
 
 - **Wf-vae: Enhancing video vae by wavelet-driven energy flow for latent video diffusion model**
   - Li, Z., Lin, B., Ye, Y.
-  - **CVPR 2025**
+  - [**CVPR 2025**](https://arxiv.org/abs/2411.17459)
   - 2025
 
 - **Step-video-t2v technical report: The practice, challenges, and future of video foundation model**
@@ -324,7 +324,7 @@
 
 - **Vidtwin: Video vae with decoupled structure and dynamics**
   - Wang, Y., Guo, J., Xie, X.
-  - **CVPR 2025**
+  - [**CVPR 2025**](https://arxiv.org/abs/2412.17726)
   - 2025
 
 ### Discrete 3D CNN Video Autoencoder
@@ -351,7 +351,7 @@
 
 - **Omnitokenizer: A joint image-video tokenizer for visual generation**
   - Wang, J., Jiang, Y., Yuan, Z.
-  - ***Omnitokenizer: A joint image-video tokenizer for visual generation**
+  - [arXiv:2406.09399](https://arxiv.org/abs/2406.09399)
   - 2024
 
 - **Cosmos world foundation model platform for physical ai**
@@ -386,7 +386,7 @@
 
 - **Learning 1D causal visual representation with de-focus attention networks**
   - Tao, C., Zhu, X., Su, S.
-  - ***Learning 1D causal visual representation with de-focus attention networks**
+  - [**NeurIPS 2025**](https://arxiv.org/abs/2406.04342)
   - 2024
 
 
