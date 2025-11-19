@@ -13,6 +13,7 @@
   - [3D Transformer Video Tokenizer](#3d-transformer-video-tokenizer)
   - [1D Video Tokenizer](#1d-video-tokenizer)
   - [Video Tokenizer with Generative Decoder](#video-tokenizer-with-generative-decoder)
+- [Others](#others)
 
 ## Image Tokenizers
 
@@ -418,6 +419,12 @@
   - [arXiv:2506.07136](https://arxiv.org/abs/2506.07136)
   - 2025
 
+## Others
+
+- **Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**
+  - Wang, Y., Lin, Z., Teng, Y. et al.
+  - [**ICCV2025**](https://arxiv.org/abs/2503.16430)
+  - 2025
 
 
 
