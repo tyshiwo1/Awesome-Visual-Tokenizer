@@ -227,12 +227,12 @@
 ### Image Autoencoder with Generative Decoder
 
 - **epsilon-vae: Denoising as visual decoding**
-  - Zhao, L., Woo, S., Wan, Z.
+  - Zhao, L., Woo, S., Wan, Z. et al.
   - [arXiv:2410.04081](https://arxiv.org/abs/2410.04081)
   - 2024
 
 - **Diffusion autoencoders are scalable image tokenizers**
-  - Chen, Y., Girdhar, R., Wang, X.
+  - Chen, Y., Girdhar, R., Wang, X. et al.
   - [arXiv:2501.18593](https://arxiv.org/abs/2501.18593)
   - 2025
 
@@ -247,17 +247,17 @@
   - 2025
 
 - **Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens**
-  - Pan, K., Lin, W., Yue, Z.
+  - Pan, K., Lin, W., Yue, Z. et al.
   - [**CVPR 2025**](https://arxiv.org/abs/2504.14666)
   - 2025
 
 - **Flow to the mode: Mode-seeking diffusion autoencoders for state-of-the-art image tokenization**
-  - Sargent, K., Hsu, K., Johnson, J.
+  - Sargent, K., Hsu, K., Johnson, J. et al.
   - [arXiv:2503.11056](https://arxiv.org/abs/2503.11056)
   - 2025
 
 - **" Principal Components" Enable A New Language of Images**
-  - Wen, X., Zhao, B., Elezi, I.
+  - Wen, X., Zhao, B., Elezi, I. et al.
   - [arXiv:2503.08685](https://arxiv.org/abs/2503.08685)
   - 2025
 
@@ -268,94 +268,94 @@
 ### Continuous 3D CNN Video Autoencoder
 
 - **Video generation models as world simulators**
-  - Brooks, T., Peebles, B., Holmes, C.
+  - Brooks, T., Peebles, B., Holmes, C. et al.
   - [**The SORA**](https://openai.com/index/video-generation-models-as-world-simulators/)
   - 2024
 
 - **Cogvideox: Text-to-video diffusion models with an expert transformer**
-  - Yang, Z., Teng, J., Zheng, W.
+  - Yang, Z., Teng, J., Zheng, W. et al.
   - [arXiv:2408.06072](https://arxiv.org/abs/2408.06072)
   - 2024
 
 - **Open-sora plan: Open-source large video generation model**
-  - Lin, B., Ge, Y., Cheng, X.
+  - Lin, B., Ge, Y., Cheng, X. et al.
   - [arXiv:2412.00131](https://arxiv.org/abs/2412.00131)
   - 2024
 
 - **Hunyuanvideo: A systematic framework for large video generative models**
-  - Kong, W., Tian, Q., Zhang, Z.
+  - Kong, W., Tian, Q., Zhang, Z. et al.
   - [arXiv:2412.03603](https://arxiv.org/abs/2412.03603)
   - 2024
 
 - **Wan: Open and advanced large-scale video generative models**
-  - Wan, T., Wang, A., Ai, B.
+  - Wan, T., Wang, A., Ai, B. et al.
   - [arXiv:2503.20314](https://arxiv.org/abs/2503.20314)
   - 2025
 
 - **Ltx-video: Realtime video latent diffusion**
-  - HaCohen, Y., Chiprut, N., Brazowski, B.
+  - HaCohen, Y., Chiprut, N., Brazowski, B. et al.
   - [arXiv:2501.00103](https://arxiv.org/abs/2501.00103)
   - 2024
 
 - **Cosmos world foundation model platform for physical ai**
-  - Agarwal, N., Ali, A., Bala, M.
+  - Agarwal, N., Ali, A., Bala, M. et al.
   - [arXiv:2501.03575](https://arxiv.org/abs/2501.03575)
   - 2025
 
 - **LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**
-  - Cheng, Y., Yuan, F.
+  - Cheng, Y., Yuan, F. et al.
   - [arXiv:2503.14325](https://arxiv.org/abs/2503.14325)
   - 2025
 
 - **Wf-vae: Enhancing video vae by wavelet-driven energy flow for latent video diffusion model**
-  - Li, Z., Lin, B., Ye, Y.
+  - Li, Z., Lin, B., Ye, Y. et al.
   - [**CVPR 2025**](https://arxiv.org/abs/2411.17459)
   - 2025
 
 - **Step-video-t2v technical report: The practice, challenges, and future of video foundation model**
-  - Ma, G., Huang, H., Yan, K.
+  - Ma, G., Huang, H., Yan, K. et al.
   - [arXiv:2502.10248](https://arxiv.org/abs/2502.10248)
   - 2025
 
 - **Waver: Wave Your Way to Lifelike Video Generation**
-  - Zhang, Y., Yang, H., Zhang, Y.
+  - Zhang, Y., Yang, H., Zhang, Y. et al.
   - [arXiv:2508.15761](https://arxiv.org/abs/2508.15761)
   - 2025
 
 - **Vidtwin: Video vae with decoupled structure and dynamics**
-  - Wang, Y., Guo, J., Xie, X.
+  - Wang, Y., Guo, J., Xie, X. et al.
   - [**CVPR 2025**](https://arxiv.org/abs/2412.17726)
   - 2025
 
 ### Discrete 3D CNN Video Autoencoder
 
 - **Language Model Beats Diffusion--Tokenizer is Key to Visual Generation**
-  - Yu, L., Lezama, J., Gundavarapu, N.B.
+  - Yu, L., Lezama, J., Gundavarapu, N.B. et al.
   - [arXiv:2310.05737](https://arxiv.org/abs/2310.05737)
   - 2023
 
 - **Videopoet: A large language model for zero-shot video generation**
-  - Kondratyuk, D., Yu, L., Gu, X.
+  - Kondratyuk, D., Yu, L., Gu, X. et al.
   - [arXiv:2312.14125](https://arxiv.org/abs/2312.14125)
   - 2023
 
 - **Loong: Generating minute-level long videos with autoregressive language models**
-  - Wang, Y., Xiong, T., Zhou, D.
+  - Wang, Y., Xiong, T., Zhou, D. et al.
   - [arXiv:2410.02757](https://arxiv.org/abs/2410.02757)
   - 2024
 
 - **Vidtok: A versatile and open-source video tokenizer**
-  - Tang, A., He, T., Guo, J.
+  - Tang, A., He, T., Guo, J. et al.
   - [arXiv:2412.13061](https://arxiv.org/abs/2412.13061)
   - 2024
 
 - **Omnitokenizer: A joint image-video tokenizer for visual generation**
-  - Wang, J., Jiang, Y., Yuan, Z.
+  - Wang, J., Jiang, Y., Yuan, Z. et al.
   - [arXiv:2406.09399](https://arxiv.org/abs/2406.09399)
   - 2024
 
 - **Cosmos world foundation model platform for physical ai**
-  - Agarwal, N., Ali, A., Bala, M.
+  - Agarwal, N., Ali, A., Bala, M. et al.
   - [arXiv:2501.03575](https://arxiv.org/abs/2501.03575)
   - 2025
 
@@ -363,29 +363,29 @@
 ### 3D Transformer Video Autoencoder
 
 - **MAGI-1: Autoregressive Video Generation at Scale**
-  - Teng, H., Jia, H., Sun, L.
+  - Teng, H., Jia, H., Sun, L. et al.
   - [arXiv:2505.13211](https://arxiv.org/abs/2505.13211)
   - 2025
 
 - **AToken: A Unified Tokenizer for Vision**
-  - Lu, J., Song, L., Xu, M.
+  - Lu, J., Song, L., Xu, M. et al.
   - [arXiv:2509.14476](https://arxiv.org/abs/2509.14476)
   - 2025
 
 - **Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion**
-  - Liu, H., Sun, W., Zhang, Q.
+  - Liu, H., Sun, W., Zhang, Q. et al.
   - [arXiv:2506.07136](https://arxiv.org/abs/2506.07136)
   - 2025
 
 ### 1D Video Autoencoder
 
 - **Larp: Tokenizing videos with a learned autoregressive generative prior**
-  - Wang, H., Suri, S., Ren, Y.
+  - Wang, H., Suri, S., Ren, Y. et al.
   - [arXiv:2410.21264](https://arxiv.org/abs/2410.21264)
   - 2024
 
 - **Learning 1D causal visual representation with de-focus attention networks**
-  - Tao, C., Zhu, X., Su, S.
+  - Tao, C., Zhu, X., Su, S. et al.
   - [**NeurIPS 2025**](https://arxiv.org/abs/2406.04342)
   - 2024
 
@@ -393,17 +393,17 @@
 ### Video Autoencoder with Generative Decoder
 
 - **Rethinking video tokenization: A conditioned diffusion-based approach**
-  - Yang, N., Li, P., Zhao, L.
+  - Yang, N., Li, P., Zhao, L. et al.
   - [arXiv:2503.03708](https://arxiv.org/abs/2503.03708)
   - 2025
 
 - **REGEN: Learning Compact Video Embedding with (Re-) Generative Decoder**
-  - Zhang, Y., Mai, L., Mahapatra, A.
+  - Zhang, Y., Mai, L., Mahapatra, A. et al.
   - [arXiv:2503.08665](https://arxiv.org/abs/2503.08665)
   - 2025
 
 - **Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion**
-  - Liu, H., Sun, W., Zhang, Q.
+  - Liu, H., Sun, W., Zhang, Q. et al.
   - [arXiv:2506.07136](https://arxiv.org/abs/2506.07136)
   - 2025
 
