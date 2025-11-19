@@ -18,17 +18,17 @@
 
 ### Continuous 2D CNN Image Autoencoder
 - **Diagnosing and enhancing VAE models**
-  - Dai, B., Wipf, D.
+  - Dai, B., Wipf, D. et al.
   - [arXiv:1903.05789](https://arxiv.org/abs/1903.05789)
   - 2019
 
 - **Deep compression autoencoder for efficient high-resolution diffusion models**
-  - Chen, J., Cai, H., Chen, J.
+  - Chen, J., Cai, H., Chen, J. et al. 
   - [arXiv:2410.10733](https://arxiv.org/abs/2410.10733)
   - 2024
 
 - **DC-AE 1.5: Accelerating Diffusion Model Convergence with Structured Latent Space**
-  - Chen, J., Zou, D., He, W.
+  - Chen, J., Zou, D., He, W. et al. 
   - [arXiv:2508.00413](https://arxiv.org/abs/2508.00413)
   - 2025
 
@@ -37,62 +37,62 @@
 
 
 - **Taming transformers for high-resolution image synthesis**
-  - Esser, P., Rombach, R., Ommer, B.
-  - **CVPR 2021**
+  - Esser, P., Rombach, R., Ommer, B. et al. 
+  - [**CVPR 2021**](https://arxiv.org/abs/2012.09841)
   - 2021
 
 - **Autoregressive image generation using residual quantization**
-  - Lee, D., Kim, C., Kim, S.
-  - **CVPR 2022**
+  - Lee, D., Kim, C., Kim, S. et al.
+  - [**CVPR 2022**](https://arxiv.org/abs/2203.01941)
   - 2022
 
 - **Finite scalar quantization: Vq-vae made simple**
-  - Mentzer, F., Minnen, D., Agustsson, E.
+  - Mentzer, F., Minnen, D., Agustsson, E. et al.
   - [arXiv:2309.15505](https://arxiv.org/abs/2309.15505)
   - 2023
 
 - **Language Model Beats Diffusion--Tokenizer is Key to Visual Generation**
-  - Yu, L., Lezama, J., Gundavarapu, N.B.
+  - Yu, L., Lezama, J., Gundavarapu, N.B. et al. 
   - [arXiv:2310.05737](https://arxiv.org/abs/2310.05737)
   - 2023
 
 - **Magvit: Masked generative video transformer**
-  - Yu, L., Cheng, Y., Sohn, K.
-  - **CVPR 2023**
+  - Yu, L., Cheng, Y., Sohn, K. et al.
+  - [**CVPR 2023**](https://arxiv.org/abs/2212.05199)
   - 2023
 
 - **Emu3: Next-Token Prediction is All You Need**
   - BAAI, E.T.
-  - Unknown Venue
+  - [arXiv:2409.18869](https://arxiv.org/abs/2409.18869)
   - 2024
 
 - **Visual autoregressive modeling: Scalable image generation via next-scale prediction**
-  - Tian, K., Jiang, Y., Yuan, Z.
+  - Tian, K., Jiang, Y., Yuan, Z. et al.
   - [arXiv:2404.02905](https://arxiv.org/abs/2404.02905)
   - 2024
 
 - **Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**
-  - Sun, P., Jiang, Y., Chen, S.
+  - Sun, P., Jiang, Y., Chen, S. et al.
   - [arXiv:2406.06525](https://arxiv.org/abs/2406.06525)
   - 2024
 
 - **Open-magvit2: An open-source project toward democratizing auto-regressive visual generation**
-  - Luo, Z., Shi, F., Ge, Y.
+  - Luo, Z., Shi, F., Ge, Y. et al. 
   - [arXiv:2409.04410](https://arxiv.org/abs/2409.04410)
   - 2024
 
 - **Quantize-then-Rectify: Efficient VQ-VAE Training**
-  - Zhang, B., Rao, Q., Zheng, W.
+  - Zhang, B., Rao, Q., Zheng, W. et al.
   - [arXiv:2507.10547](https://arxiv.org/abs/2507.10547)
   - 2025
 
 - **Image and video tokenization with binary spherical quantization**
-  - Zhao, Y., Xiong, Y., Kr"ahenb"uhl, P.
+  - Zhao, Y., Xiong, Y., Kr"ahenb"uhl, P. et al.
   - [arXiv:2406.07548](https://arxiv.org/abs/2406.07548)
   - 2024
 
 - **End-to-end vision tokenizer tuning**
-  - Wang, W., Zhang, F., Cui, Y.
+  - Wang, W., Zhang, F., Cui, Y. et al. 
   - [arXiv:2505.10562](https://arxiv.org/abs/2505.10562)
   - 2025
 
@@ -101,96 +101,91 @@
 ### 2D Transformer Image Autoencoder
 
 - **Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation**
-  - Zheng, A., Wen, X., Zhang, X.
+  - Zheng, A., Wen, X., Zhang, X. et al. 
   - [arXiv:2507.08441](https://arxiv.org/abs/2507.08441)
   - 2025
 
 - **Learnings from scaling visual tokenizers for reconstruction and generation**
-  - Hansen-Estruch, P., Yan, D., Chung, C.
+  - Hansen-Estruch, P., Yan, D., Chung, C. et al.
   - [arXiv:2501.09755](https://arxiv.org/abs/2501.09755)
   - 2025
 
 - **MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**
-  - Li, Y., Qian, R., Pan, B.
-  - Unknown Venue
+  - Li, Y., Qian, R., Pan, B. et al.
+  - [arXiv:2509.16197](https://arxiv.org/abs/2509.16197)
   - 2025
 
 - **Unitok: A unified tokenizer for visual generation and understanding**
-  - Ma, C., Jiang, Y., Wu, J.
+  - Ma, C., Jiang, Y., Wu, J. et al. 
   - [arXiv:2502.20321](https://arxiv.org/abs/2502.20321)
   - 2025
 
-- **Dinov3**
-  - Sim'eoni, O., Vo, H.V., Seitzer, M.
-  - [arXiv:2508.10104](https://arxiv.org/abs/2508.10104)
-  - 2025
-
 - **UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing**
-  - Tang, H., Xie, C., Bao, X.
+  - Tang, H., Xie, C., Bao, X. et al.
   - [arXiv:2507.23278](https://arxiv.org/abs/2507.23278)
   - 2025
 
 - **Gigatok: Scaling visual tokenizers to 3 billion parameters for autoregressive image generation**
-  - Xiong, T., Liew, J.H., Huang, Z.
+  - Xiong, T., Liew, J.H., Huang, Z. et al. 
   - [arXiv:2504.08736](https://arxiv.org/abs/2504.08736)
   - 2025
 
 - **Latent Diffusion Model without Variational Autoencoder**
-  - Shi, M., Wang, H., Zheng, W.
+  - Shi, M., Wang, H., Zheng, W. et al. 
   - [arXiv:2510.15301](https://arxiv.org/abs/2510.15301)
   - 2025
 
 - **Diffusion Transformers with Representation Autoencoders**
-  - Zheng, B., Ma, N., Tong, S.
+  - Zheng, B., Ma, N., Tong, S. et al. 
   - [arXiv:2510.11690](https://arxiv.org/abs/2510.11690)
   - 2025
 
 - **Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models**
-  - Chen, B., Bi, S., Tan, H.
-  - Unknown Venue
+  - Chen, B., Bi, S., Tan, H. et al.
+  - [arXiv:2509.25162](https://arxiv.org/abs/2509.25162)
   - 2025
 
 
 ### 1D Image Autoencoder
 
 - **An image is worth 32 tokens for reconstruction and generation**
-  - Yu, Q., Weber, M., Deng, X.
-  - ***An image is worth 32 tokens for reconstruction and generation**
+  - Yu, Q., Weber, M., Deng, X. et al.
+  - [arXiv:2406.07550](https://arxiv.org/html/2406.07550v1)
   - 2024
 
 - **Elastictok: Adaptive tokenization for image and video**
-  - Yan, W., Mnih, V., Faust, A.
+  - Yan, W., Mnih, V., Faust, A. et al.
   - [arXiv:2410.08368](https://arxiv.org/abs/2410.08368)
   - 2024
 
 - **Latent Denoising Makes Good Visual Tokenizers**
-  - Yang, J., Li, T., Fan, L.
+  - Yang, J., Li, T., Fan, L. et al.
   - [arXiv:2507.15856](https://arxiv.org/abs/2507.15856)
   - 2025
 
 - **Language-guided image tokenization for generation**
-  - Zha, K., Yu, L., Fathi, A.
-  - **CVPR 2025**
+  - Zha, K., Yu, L., Fathi, A. et al.
+  - [**CVPR 2025**](https://arxiv.org/abs/2412.05796)
   - 2025
 
 - **Highly Compressed Tokenizer Can Generate Without Training**
-  - Beyer, L.L., Li, T., Chen, X.
+  - Beyer, L.L., Li, T., Chen, X. et al.
   - [arXiv:2506.08257](https://arxiv.org/abs/2506.08257)
   - 2025
 
 - **Masked autoencoders are effective tokenizers for diffusion models**
-  - Chen, H., Han, Y., Chen, F.
-  - **ICML 2025**
+  - Chen, H., Han, Y., Chen, F. et al.
+  - [**ICML 2025**](https://arxiv.org/abs/2502.03444)
   - 2025
 
 - **Softvq-vae: Efficient 1-dimensional continuous tokenizer**
-  - Chen, H., Wang, Z., Li, X.
-  - **CVPR 2025**
+  - Chen, H., Wang, Z., Li, X. et al.
+  - [**CVPR 2025**](https://arxiv.org/abs/2412.10958)
   - 2025
 
 - **Adaptive length image tokenization via recurrent allocation**
-  - Duggal, S., Isola, P., Torralba, A.
-  - **First Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models**
+  - Duggal, S., Isola, P., Torralba, A. et al.
+  - [**First Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models**](https://arxiv.org/abs/2411.02393)
   - 2024
 
 - **Democratizing text-to-image masked generative models with compact text-aware one-dimensional tokens**
